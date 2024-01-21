@@ -1,0 +1,186 @@
+<resources>
+    <string name="app_name">Abbreviation</string>
+    <string name="Subject_Name_1">Networking</string>
+    <string name="Subject_Name_2">Data Communication</string>
+    <string name="Subject_Name_3">Sequential Logic</string>
+
+
+    <string-array name="network_Text">
+        <item>ASCII: American Standard Code for Information Interchange</item>
+        <item>VIRUS: Vital Information Resources Under Seize </item>
+        <item>AVI: Audio Video Interleaved </item>
+        <item>COMPUTER: Common Operating Machine Purposely Used for Technological and Educational
+        Research </item>
+        <item>DNS : Domain Name System </item>
+        <item>DHCP : Dynamic Host Configuration Protocol </item>
+        <item>LAN : Local Area Network </item>
+        <item>MAN: Metropolitan Area Network </item>
+        <item>WAN: Wide Area Network </item>
+        <item>VLAN: Virtual Local Area Network </item>
+        <item>Inter- VLAN : Inter Virtual Local Area Network </item>
+        <item>CSMA: Carrier Sense Multiple Access </item>
+        <item>CSMA/CD: Carrier-Sense Multiple Access With Collision Detection </item>
+        <item>CSMA/CA: Carrier Sense Multiple Access/Collision Avoidance </item>
+        <item>FDDI: Fiber Distributed Data Interface </item>
+        <item>FCS: Frame Check Sequence </item>
+        <item>Net-BIOS: Network Basic Input/ Output System </item>
+        <item>NIC: Network Interface Card </item>
+        <item>SCADA: Supervisory Control And Data Acquisition </item>
+        <item>KPI: Key Performance Indicator </item>
+        <item>MTBF: Mean Time Between Failures </item>
+        <item>CIDR: Classless Inter-Domain Routing </item>
+        <item>VLSM: Variable Length Subnet Mask </item>
+        <item>IGRP: Interior Gateway Routing Protocol </item>
+        <item>EIGRP: Enhanced Interior Gateway Routing Protocol </item>
+        <item>OSPF: Open Shortest Path First </item>
+        <item>TCP: Transmission Control Protocol </item>
+        <item>MAC: Media Access Control </item>
+        <item>IP: Internet Protocol </item>
+        <item>UTP: Unshielded Twisted Pair </item>
+        <item>STP: Shielded Twisted Pair </item>
+        <item>ISO: International Standard Organization </item>
+        <item>ANSI: American National Standards Institute </item>
+        <item>IEEE: Institute Of Electrical And Electronics Engineers </item>
+        <item>EIA: Electronic Industries Association </item>
+        <item>ITU: International Telecommunications Union </item>
+        <item>TIA: Telecommunications Industry Association </item>
+        <item>DTE: Data Terminal Equipment </item>
+        <item>DCE: Data Circuit-Terminating Equipment </item>
+        <item>PSTN: Public Switched Telephone Network </item>
+        <item>VPSN: Virtual Private Server Network </item>
+        <item>HIPAA: Health Insurance Portability And Accountability Act </item>
+        <item>NOC: Network Operations Center </item>
+        <item>DCIM: Data Center Infrastructure Management </item>
+        <item>SPOC: Single Point Of Contact </item>
+        <item>BPDU: Bridge Protocol Data Unit </item>
+        <item>VRRP: Virtual Router Redundancy Protocol </item>
+        <item>GLBP: Gateway Load Balancing Protocol </item>
+        <item>HSRP: Hot Standby Router Protocol </item>
+        <item>HDLC: High-Level Data Link Control </item>
+        <item>SDLC: Synchronous Data Link Control </item>
+        <item>ADCCP: Advanced Data Communication Control Procedures </item>
+        <item>LAP-B: Link Access Procedure- Balanced </item>
+        <item>RIPv2: Routing Information Protocol Version-2 </item>
+        <item>EGP: Exterior Gateway Protocol </item>
+        <item>BGP: Border Gateway Protocol </item>
+        <item>SMTP: Simple Mail Transfer Protocol </item>
+        <item>SNMP: Simple Network Management Protocol </item>
+        <item>FTP: File Transfer Protocol </item>
+        <item>UDP: User Datagram Protocol </item>
+        <item>NFS: Network File System </item>
+        <item>RFP: Request For Proposal </item>
+        <item>RFT: Request For Tender </item>
+        <item>RFI: Request For Information </item>
+        <item>RFQ: Request For Quote </item>
+        <item>PAT: Port Address Translation </item>
+        <item>RPC: Remote Procedure Call </item>
+        <item>TFTP: Trivial File Transfer Protocol </item>
+        <item>ICMP: Internet Control Message Protocol </item>
+        <item>HTTP: Hypertext Transfer Protocol </item>
+        <item>IGMP: Internet Group Management Protocol </item>
+        <item>MIMS: Manufacturing Information Management System </item>
+        <item>RSVP: Resource Reservation Protocol </item>
+        <item>NAT: Network Address Translation </item>
+        <item>DLC: Data Link Control </item>
+        <item>IPX: Internetwork Packet Exchange </item>
+        <item>SMB: Server Message Block </item>
+        <item>OSI: Open Systems Interconnection </item>
+        <item>SNA: Systems Network Architecture </item>
+        <item>EPMS: Electrical Power Management System </item>
+        <item>SSH: Secure Shell </item>
+        <item>CCNA: Cisco Certified Network Associate </item>
+        <item>CCNP: Cisco Certified Network Professional </item>
+        <item>JNCIP: Juniper Networks Certification Professional </item>
+        <item>PDS: Power Distribution System </item>
+
+    </string-array>
+
+
+    <string-array name="dataCommunication_Text">
+        <item>PLL: Phase-Locked Loop </item>
+        <item>ASK: Amplitude-Shift Keying </item>
+        <item>FSK: Frequency-Shift Keying </item>
+        <item>PSK: Phase-Shift Keying </item>
+        <item>BASK: Binary Amplitude Shift Keying </item>
+        <item>BFSK: Binary Frequency-Shift Keying </item>
+        <item>BPSK: Binary Phase-Shift Keying </item>
+        <item>QPSK: Quadrature Phase Shift Keying </item>
+        <item>QAM: Quadrature Amplitude Modulation </item>
+        <item>OOK: On–Off Keying </item>
+        <item>TDMA: Time Division Multiple Access </item>
+        <item>ATM: Asynchronous Transfer Mode </item>
+        <item>ISDN: Integrated Services Digital Network </item>
+        <item>VOIP: Voice Over Internet Protocol </item>
+        <item>WWW: World Wide Web </item>
+        <item>NRZ-L: Non-Return-To-Zero-Level </item>
+        <item>NRZ-I: Non-Return-To-Zero Invert </item>
+        <item>RZ: Return-To-Zero </item>
+        <item>NRZ: Non-Return-To-Zero </item>
+        <item>A/D Converter: Analog TO Digital Converter </item>
+        <item>D/A Converter: Digital To Analog Converter </item>
+        <item>DC: Direct Current </item>
+        <item>AMI: Alternate Marks Inversion </item>
+        <item>BnZs: Bipolar N-Zero Substitution </item>
+        <item>MLT-3: Multiline Transmission Three Level </item>
+        <item>4D-PAM5: Four Dimensional Five-Level Pulse Amplitude Modulation </item>
+        <item>8B6T: Eight Binary Six Ternary </item>
+        <item>2B1Q: Two-Binary, One-Quaternary </item>
+        <item>EMI: Electromagnetic Interference </item>
+        <item>RFI: Radio Frequency Interference </item>
+        <item>CATV: Cable Television </item>
+        <item>RG: Radio Government </item>
+        <item>TIA: Telecommunications Industry Association </item>
+        <item>LED: Light Emitting Diode </item>
+        <item>ILD: Injection Laser Diode </item>
+        <item>ITA: Telecommunication Industry Association </item>
+        <item>LASER: Light Amplification By Stimulated Emission Of Radiation </item>
+        <item>WDM: Wavelength Division Multiplexing </item>
+        <item>SONET: Synchronous Optical Network </item>
+        <item>FDM: Frequency-Division Multiplexing </item>
+        <item>TDM: Time Division Multiplexing </item>
+        <item>CDM: Code Division Multiplexing </item>
+        <item>DECNET: Digital Equipment Corporation Network </item>
+        <item>ARPANET: Advanced Research Projects Agency Network </item>
+        <item>IPv6: Internet Protocol Version 6 </item>
+        <item>SNR: Signal-To-Noise Ratio </item>
+
+    </string-array>
+
+    <string-array name="sequential_Logic_Text">
+
+        <item>SISO: Serial In Serial Out </item>
+        <item>SIPO: Serial In Parallel Out </item>
+        <item>PISO: Parallel In Serial Out </item>
+        <item>PIPO: Parallel In Parallel Out </item>
+        <item>RAM: Random Access Memory. </item>
+        <item>ROM: Read-Only Memory </item>
+        <item>MROM: Mask Read Only Memory </item>
+        <item>DRAM: Dynamic Random Access Memory </item>
+        <item>SDRAM: Synchronous Dynamic Random Access Memory </item>
+        <item>PROM: Programmable Read-Only Memory </item>
+        <item>EPROM: Erasable Programmable Read-Only Memory </item>
+        <item>EEPROM: Electrically Erasable Programmable Read-Only Memory </item>
+        <item>EAROM: Electrically Alterable Read-Only Memory </item>
+        <item>DDR4: Double Data Rate 4 </item>
+        <item>DDR3: Double Data Rate Version 3 </item>
+        <item>SRAM: Static RAM </item>
+        <item>LIFO: Last In First Out </item>
+        <item>ALU: Arithmetic Logic Unit </item>
+        <item>PAL: Programmable Array Logic </item>
+        <item>FPGA: Field Programmable Gate Arrays </item>
+        <item>CPLD: Complex Programmable Logic Device </item>
+        <item>PLD: Programmable Logic Device </item>
+        <item>GAL: Generic Array Logic </item>
+        <item>SAP: Simple As Possible </item>
+        <item>MDR: Memory Data Register </item>
+        <item>LDA: Load To The Accumulator </item>
+        <item>ADD: Add To The Accumulator </item>
+        <item>SUB: Subtract From The Accumulator </item>
+        <item>STA: Store The Accumulator Word </item>
+        <item>LDB: Load The B Register </item>
+        <item>LDX: Load The Index Register </item>
+
+    </string-array>
+
+
+</resources>
