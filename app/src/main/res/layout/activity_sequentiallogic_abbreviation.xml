@@ -21,6 +21,13 @@
         android:gravity="center"
         />
 
+    <SearchView
+        android:id="@+id/SearchView_Id"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:iconifiedByDefault="false"
+        android:queryHint="Search Here" />
+
     <ListView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
